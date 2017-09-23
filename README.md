@@ -4,7 +4,8 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 npms to install :
-###### create-react-app country-app `(stworzy folder country-app z niektórymi gotowymi paczkami , wtedy wkleic
+###### create-react-app country-app 
+`(Komenda stworzy folder country-app z niektórymi gotowymi paczkami , wtedy wkleic
 tam pliki z githuba a nastepnie zainstalować poniższe paczki)`
 ###### bootstrap
 ###### react-redux
